@@ -1,0 +1,3 @@
+Git and GitHub
+
+This repository has been created to document and implement Data Structures and Algorithms (DSA) using the Python programming language. The objective is to systematically work on problem-solving techniques and build a strong foundation in DSA while maintaining proper version control with Git and GitHub.
