@@ -27,3 +27,4 @@ def count_digit(num):
 
 print("The number of digit is", count_digit(5873))
 
+# time complexity -> o(log10(n))
